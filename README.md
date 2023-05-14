@@ -2,7 +2,6 @@
 <h2 align="center">SIH'22 Finalist | GSSOC'23 </h2>
 <h3 align="center">🚀 A creative Frontend developer & designer pushing boundaries 💻🎨</h3>
 
-<p align="left"> <a href="https://twitter.com/abhishipit" target="blank"><img src="https://img.shields.io/twitter/follow/abhishipit?logo=twitter&style=for-the-badge" alt="abhishipit" /></a> </p>
 
 - 🌱 I’m currently learning **Three.js,WebG,React-three-fiber**
 
